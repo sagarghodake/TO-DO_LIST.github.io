@@ -15,4 +15,4 @@ It's an intuitive and easy to use online Todo list, and Task Manager. It helps y
 A modern web-browser like Safari, Chrome, Microsoft-Edge, Mozilla Firefox, etc.
 
 # Running
-Double-click the "index.html" file after unzipping the downloaded zip file.
+https://sagarghodake.github.io/TO-DO_LIST.github.io/
