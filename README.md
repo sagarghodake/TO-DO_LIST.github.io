@@ -1,8 +1,8 @@
 # TO-DO-List.github.io
 
-# Just_Click & _Make_To-DO List 👇
+ Just_Click & _Make_To-DO List 👇
 
-<center>https://sagarghodake.github.io/TO-DO_LIST.github.io/</center>
+# https://sagarghodake.github.io/TO-DO_LIST.github.io/
 
 ---------------------------
 ![todo2](https://user-images.githubusercontent.com/60310009/95965436-91596380-0e27-11eb-8085-73ddf6ac518d.gif)
